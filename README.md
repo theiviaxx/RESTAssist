@@ -21,3 +21,5 @@ Data
 This is a simple key value pair to send with the request.  To add a new line, simply hit TAB in the Value input.
 
 All variables are stored using localStorage so you don't have to re-enter data on page reload.
+
+![Alt screenshot](https://github.com/theiviaxx/RESTAssist/blob/master/i/screenshot.png?raw=true)
