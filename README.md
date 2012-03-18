@@ -1,5 +1,9 @@
 REST Assist
 ===========
+
+REST Assist is released under the MIT license. It is simple and easy to understand and places almost no restrictions on what you can do with REST Assist.
+[More Information](http://en.wikipedia.org/wiki/MIT_License)
+
 This is a simple page that will allow you to make ajax requests usng GET, POST, PUT, and DELETE to test a REST interface.  It was made with JSON responses in mind so it first tries to parse the response as JSON, if that fails, it will simply display the response as HTML.  If the repsonse is JSON, then it will render a nice tree with the results with icons denoting the value type.
 
 How To Use
